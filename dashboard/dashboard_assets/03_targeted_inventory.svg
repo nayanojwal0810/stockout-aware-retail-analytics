@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="410" viewBox="0 0 1100 410">
+<rect width="1100" height="410" rx="24" fill="#F8FAFC"/>
+<text x="55" y="58" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#172033">Where extra protection creates the most value</text>
+<text x="55" y="90" font-family="Arial,sans-serif" font-size="17" fill="#667085">The same +20% protection scenario has very different simulated effects by stockout-risk band.</text>
+<g transform="translate(60,135)">
+<text x="0" y="0" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#475467">Stockout risk</text>
+<rect y="22" width="330" height="44" rx="10" fill="#E8F1FF"/><text x="20" y="51" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#1D4ED8">LOW</text>
+<rect y="78" width="330" height="44" rx="10" fill="#EAF7EE"/><text x="20" y="107" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#15803D">MEDIUM</text>
+<rect y="134" width="330" height="44" rx="10" fill="#FFF4D6"/><text x="20" y="163" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#A16207">HIGH</text>
+<rect y="190" width="330" height="44" rx="10" fill="#FFE6E6"/><text x="20" y="219" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#B42318">VERY HIGH</text>
+</g>
+<g transform="translate(455,135)">
+<text x="0" y="0" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#475467">Simulated shortage reduction</text>
+<rect y="34" width="420" height="32" rx="8" fill="#E5E7EB"/><rect y="34" width="34" height="32" rx="8" fill="#5B8FF9"/><text x="440" y="57" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#172033">4.0%</text>
+<rect y="90" width="420" height="32" rx="8" fill="#E5E7EB"/><rect y="90" width="151" height="32" rx="8" fill="#5B8FF9"/><text x="440" y="113" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#172033">18.0%</text>
+<rect y="146" width="420" height="32" rx="8" fill="#E5E7EB"/><rect y="146" width="245" height="32" rx="8" fill="#5B8FF9"/><text x="440" y="169" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#172033">29.3%</text>
+<rect y="202" width="420" height="32" rx="8" fill="#E5E7EB"/><rect y="202" width="381" height="32" rx="8" fill="#5B8FF9"/><text x="440" y="225" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#172033">45.4%</text>
+</g>
+<rect x="55" y="335" width="990" height="46" rx="12" fill="#FFFFFF" stroke="#D0D5DD"/>
+<text x="550" y="364" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#475467">Decision: concentrate extra protection on high-risk items rather than applying it uniformly</text>
+</svg>

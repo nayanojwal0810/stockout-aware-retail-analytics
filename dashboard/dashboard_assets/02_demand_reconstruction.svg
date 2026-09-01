@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="380" viewBox="0 0 1100 380">
+<rect width="1100" height="380" rx="24" fill="#F8FAFC"/>
+<text x="55" y="58" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#172033">From observed sales to estimated demand</text>
+<text x="55" y="90" font-family="Arial,sans-serif" font-size="17" fill="#667085">The reconstruction layer estimates what demand may have looked like without the stockout constraint.</text>
+<g transform="translate(80,135)">
+<text x="0" y="0" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#475467">What we saw</text>
+<rect x="10" y="35" width="230" height="115" rx="14" fill="#E5F3FF"/>
+<text x="125" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700" fill="#1D4ED8">1.0916</text>
+<text x="125" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#475467">mean observed sales</text>
+</g>
+<g transform="translate(420,135)">
+<text x="0" y="0" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#475467">What we estimate</text>
+<rect x="10" y="35" width="230" height="115" rx="14" fill="#ECFDF3"/>
+<text x="125" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700" fill="#15803D">1.1370</text>
+<text x="125" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#475467">mean estimated demand</text>
+</g>
+<g transform="translate(760,135)">
+<text x="0" y="0" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#475467">Potentially hidden</text>
+<rect x="10" y="35" width="230" height="115" rx="14" fill="#FFF7E6"/>
+<text x="125" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700" fill="#C2410C">0.2274</text>
+<text x="125" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#475467">mean estimated gap</text>
+</g>
+<line x1="315" y1="215" x2="390" y2="215" stroke="#98A2B3" stroke-width="5"/>
+<polygon points="385,201 413,215 385,229" fill="#98A2B3"/>
+<line x1="655" y1="215" x2="730" y2="215" stroke="#98A2B3" stroke-width="5"/>
+<polygon points="725,201 753,215 725,229" fill="#98A2B3"/>
+<rect x="55" y="300" width="990" height="48" rx="12" fill="#FFFFFF" stroke="#D0D5DD"/>
+<text x="550" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#475467">Counterfactual estimate — useful for planning, not observed lost sales</text>
+</svg>
