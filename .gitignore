@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Test and tooling cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets and generated analytics
+data/raw/
+data/processed/*.csv
+data/processed/*.parquet
+data/processed/*.pkl
+data/processed/*.joblib
+
+# Public dashboard data
+!data/processed/dashboard/
+!data/processed/dashboard/*.csv
+!data/processed/dashboard/*.parquet
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.bak
+repo_files.txt
+*.egg-info/
